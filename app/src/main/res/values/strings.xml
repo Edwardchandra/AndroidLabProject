@@ -1,0 +1,21 @@
+<resources>
+    <!--Application Name-->
+    <string name="app_name">BreadStalk</string>
+
+    <!--LoginActivity-->
+    <string name="inputusername">Input Email</string>
+    <string name="inputpassword">Input Password</string>
+    <string name="loginbutton">Login</string>
+
+    <!--MainActivity-->
+    <string name="logoutbutton">Logout</string>
+    <string name="welcome">Welcome, %s</string>
+    <string name="ourproducts">Our Products</string>
+    <string name="aboutus">About Us</string>
+    <string name="copyright">Copyright</string>
+
+    <!--AboutActivity-->
+    <string name="feedback">Feedback</string>
+    <string name="submit">Submit</string>
+
+</resources>
